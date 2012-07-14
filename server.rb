@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Totally awesome cats"
+  "Totally awesome cats v2"
 end
